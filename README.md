@@ -45,6 +45,8 @@
 
 [![Dinar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinardavis&theme=shades-of-purple&show_icons=true&hide=contribs,prs)](https://github.com/dinardavis/github-readme-stats)</br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dinardavis&theme=shades-of-purple)](https://git.io/streak-stats)</br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dinardavis)](https://git.io/streak-stats)
+
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinardavis&theme=shades-of-purple&layout=compact)](https://github.com/dinardavis/github-readme-stats)
