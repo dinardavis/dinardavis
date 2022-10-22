@@ -42,9 +42,9 @@
 ![](https://komarev.com/ghpvc/?username=dinardavis&color=yellow)
 
 
-[![Dinar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinardavis&theme=github_dark&show_icons=true&hide=contribs,prs)](https://github.com/dinardavis/github-readme-stats)</br>
+[![Dinar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinardavis&theme=radical&show_icons=true&hide=contribs,prs)](https://github.com/dinardavis/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dinardavis&theme=github_dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dinardavis&theme=radical)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinardavis&theme=github_dark&layout=compact)](https://github.com/dinardavis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinardavis&theme=radical&layout=compact)](https://github.com/dinardavis/github-readme-stats)
