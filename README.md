@@ -2,7 +2,7 @@
 <h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🤓</g-emoji> About Me:</h2>
 
 <h3>👋🏽 Hi, I'm Dinar!</h3>
-<p dir="auto"><br>- 👶🏽 Born in 🇯🇵, raised in 🌉 🇺🇸, presently 🌏📍👀.<br>- 🔭 At the moment I'm working on a few personal projects primary with ReactJS.<br>- 👨🏽‍💻 I’m also currently learning TypeScript.<br>
+<p dir="auto"><br>- 👶🏽 Born in 🇯🇵, raised in 🌉 🇺🇸, presently 🌏📍👀.<br>- 🔭 At the moment I'm working on a few personal projects, primary utilizing ReactJS.<br>- 👨🏽‍💻 I’m also currently learning TypeScript.<br>
 - 💡 I’m open to collaborating on any project ideas where I can be of assistance. <a href="http://dinardavis.com">Just give me shout!</a><br>
 - ✨ Fun facts: The Wright brothers are my cousins. ✈️ (Yup, those guys.) Also, I love donuts. 🍩<br></p>
 
@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
